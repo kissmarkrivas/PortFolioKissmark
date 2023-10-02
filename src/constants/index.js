@@ -31,7 +31,7 @@ import {
     seller,
     gify,
   
-  } from "../assets";
+  } from "../assets/index";
   
   export const navLinks = [
     {
